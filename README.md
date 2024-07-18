@@ -2,10 +2,11 @@
 
 1. React Redux Project
 
-This project is a React application that utilizes Redux for state management. 
-It includes features such as Add to cart,Remove from cart and calculate the price depends on its quantity.
+    This project is a React application that utilizes Redux for state management.
+   
+    It includes features such as Add to cart,Remove from cart and calculate the price depends on its quantity.
 
-2. Table of Contents:
+3. Table of Contents:
 
    #installation
    #usage
@@ -13,7 +14,7 @@ It includes features such as Add to cart,Remove from cart and calculate the pric
    #contributing
    #license
 
-3. Installation:
+4. Installation:
 
    To start the project:  npm install
    
