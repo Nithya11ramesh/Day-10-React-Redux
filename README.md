@@ -26,4 +26,4 @@
    
    To open the host: http://localhost:3000 to view it in the browser.
 
- 4.Netlify link:  
+ 4.Netlify link:  https://coruscating-sundae-57a2ef.netlify.app/
