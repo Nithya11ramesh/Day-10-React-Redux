@@ -1,8 +1,24 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1. React Redux Project
 
-Currently, two official plugins are available:
+This project is a React application that utilizes Redux for state management. 
+It includes features such as Add to cart,Remove from cart and calculate the price depends on its quantity.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2. Table of Contents:
+
+   #installation
+   #usage
+   #folder-structure
+   #contributing
+   #license
+
+3. Installation:
+
+   To start the project:  npm install
+   To start the router: npm i  react-rouer-dom
+   To Start the redux:npm i @reduxjs/toolkit
+   To Start the server:npm start
+   To open the host: http://localhost:3000 to view it in the browser.
+
+ 4.Netlify link:  
